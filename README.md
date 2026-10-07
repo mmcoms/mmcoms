@@ -22,7 +22,6 @@ Built with TanStack Start, React, Tailwind and Vite. Hosted on Vercel. → [penw
 
 ---
 
-### 🎓 Training
 
 ### 🎓 Cybersecurity Training
 
