@@ -1,4 +1,4 @@
-### Hi, I'm mmcoms 👋
+### Hi, I'm MCOMS 👋
 
 Radio, drones and security tooling: I like knowing what's in the air and keeping the gear that watches it up to date.
 
