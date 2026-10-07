@@ -24,7 +24,9 @@ Built with TanStack Start, React, Tailwind and Vite. Hosted on Vercel. → [penw
 
 ### 🎓 Training
 
-Cybersecurity Boot Camp coursework:
+### 🎓 Cybersecurity Training
+
+Completed a 2025 Cybersecurity Boot Camp: five core courses and three hands-on career simulations.
 
 <p>
   <img src="GitHub-profile/badges/cyber-security-essentials.png" width="96" alt="Cyber Security Essentials" title="Cyber Security Essentials">
